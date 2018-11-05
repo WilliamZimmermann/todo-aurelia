@@ -1,7 +1,7 @@
 import {Todo} from './todo';
 
 export class App{
-    heading = "Todos";
+    heading = "Lista de Tarefas";
     todos: Todo[] = [];
     todoDescription = "";
 
